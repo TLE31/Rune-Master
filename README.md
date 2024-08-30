@@ -1,4 +1,4 @@
-# Rune Master Game - by Priyanshu
+# Rune Master Game -
 Simple Game using HTML, CSS, and JavaScript
 
 This is a simple game created using HTML, CSS, and JavaScript. The game utilizes various technologies and libraries for animation and rendering.
