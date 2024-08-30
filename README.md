@@ -51,8 +51,7 @@ This is a simple game created using HTML, CSS, and JavaScript. The game utilizes
 - AudioLoader
 
 ## About the Game
-
-[This game a simple webgame for improve my tech stack]
+This is a a spell-casting game where the player must protect a crystal from approaching demons. You can cast spells like Arcane, Fire, and Vortex to eliminate the demons. Each spell has a unique effect and takes time to recharge. The objective is to prevent the demons from reaching and destroying the crystal.
 
 ## How to Play
 
